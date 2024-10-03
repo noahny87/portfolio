@@ -11,6 +11,23 @@ I love working on projects that challenge me to learn new skills, and I'm consta
 
 Feel free to check out my projects and reach out if you'd like to collaborate!
 
+## Projects
+
+Here are some of the projects I've been working on:
+
+- **[Store Forecasting Competition - Rohlik](https://github.com/noahny87/Projects-Competition)**  
+For this Kaggle competition, I used a LightGBM model to predict store sales. The model achieved a **4.4% error (MSE: 0.0440)**, placing **37th** on the leaderboard out of hundreds of participants. LightGBM was selected for its efficiency in handling weak correlations within the dataset and for requiring less computational power compared to XGBoost.
+
+- **[Pokemon LLM using RAG](https://github.com/noahny87/Pokemon-Chat-Bot-using-RAG)**  
+  As a huge fan of Pokémon and the franchise, I wanted to create my own "Pokédex" similar to what you see in the show. Using a dataset from Kaggle and Meta's Llama family of LLMs, I brought the concept to life. By leveraging Retrieval-Augmented Generation (RAG), this project can retrieve and present information about various Pokémon—just like a real-life Pokédex!
+
+- **[Anime Recommendation](https://github.com/noahny87/Anime-Recommendation)**  
+  As a huge anime fan, I often wondered how recommendation systems like those used by Netflix, Hulu, and MAX actually work. To satisfy my curiosity, I decided to build my own! I started by diving into cosine similarity, which proved to be more robust than Euclidean similarity for this task, and it became the core recommendation function. Using Word2Vec embeddings, I created vectors for each show and ran them through cosine similarity to retrieve accurate recommendations.
+
+  One major challenge was the inconsistency in naming conventions (e.g., "Naruto Shippuden" is often just called "Naruto"). To tackle this, I implemented a closest-match search to eliminate errors caused by name discrepancies. In the end, the system worked seamlessly, delivering accurate results—a job well done!
+
+  As Spike Spiegel from *Cowboy Bebop* would say, "Whatever happens, happens"—and this project taught me a lot about problem-solving and persistence!
+
 ## Education
 
 ### North Dakota State University (2025 - 2027) 
@@ -47,22 +64,5 @@ Feel free to check out my projects and reach out if you'd like to collaborate!
 - Drove business operations by analyzing data, generating reports, and optimizing workflows
 - Employed Power BI, Epicor 10, BI Launch Pad, and MS Excel for data analysis and visualization
 - Generated over $150,000 in part sales revenue
-
-## Projects
-
-Here are some of the projects I've been working on:
-
-- **[Store Forecasting Competition - Rohlik](https://github.com/noahny87/Projects-Competition)**  
-For this Kaggle competition, I used a LightGBM model to predict store sales. The model achieved a **4.4% error (MSE: 0.0440)**, placing **37th** on the leaderboard out of hundreds of participants. LightGBM was selected for its efficiency in handling weak correlations within the dataset and for requiring less computational power compared to XGBoost.
-
-- **[Pokemon LLM using RAG](https://github.com/noahny87/Pokemon-Chat-Bot-using-RAG)**  
-  As a huge fan of Pokémon and the franchise, I wanted to create my own "Pokédex" similar to what you see in the show. Using a dataset from Kaggle and Meta's Llama family of LLMs, I brought the concept to life. By leveraging Retrieval-Augmented Generation (RAG), this project can retrieve and present information about various Pokémon—just like a real-life Pokédex!
-
-- **[Anime Recommendation](https://github.com/noahny87/Anime-Recommendation)**  
-  As a huge anime fan, I often wondered how recommendation systems like those used by Netflix, Hulu, and MAX actually work. To satisfy my curiosity, I decided to build my own! I started by diving into cosine similarity, which proved to be more robust than Euclidean similarity for this task, and it became the core recommendation function. Using Word2Vec embeddings, I created vectors for each show and ran them through cosine similarity to retrieve accurate recommendations.
-
-  One major challenge was the inconsistency in naming conventions (e.g., "Naruto Shippuden" is often just called "Naruto"). To tackle this, I implemented a closest-match search to eliminate errors caused by name discrepancies. In the end, the system worked seamlessly, delivering accurate results—a job well done!
-
-  As Spike Spiegel from *Cowboy Bebop* would say, "Whatever happens, happens"—and this project taught me a lot about problem-solving and persistence!
 
 Check out my [GitHub profile](https://github.com/noahny87) for more projects and contributions!
