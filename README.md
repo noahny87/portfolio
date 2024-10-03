@@ -14,7 +14,7 @@ Feel free to check out my projects and reach out if you'd like to collaborate!
 ## Education
 
 ### North Dakota State University( 2025 - 2027) 
-Masters of Science in Data Science 
+**Masters of Science in Data Science**
 
 ### North Dakota State University (2021 - 2025)
 **Bachelor of Science in Management Information Systems**  
