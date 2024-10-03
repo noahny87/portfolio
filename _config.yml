@@ -1,4 +1,9 @@
 # add the following to _config.yml file
 title: Noah Nyland
 show_downloads: true
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+minima:
+  skin: dark # or auto if you want it to switch with your system settings.
  # add this line to the plugins list if you already have one # add this line to the plugins list if you already have one
