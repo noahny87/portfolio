@@ -13,7 +13,7 @@ Feel free to check out my projects and reach out if you'd like to collaborate!
 
 ## Education
 
-### North Dakota State University( 2025 - 2027) 
+### North Dakota State University (2025 - 2027) 
 **Masters of Science in Data Science**
 
 ### North Dakota State University (2021 - 2025)
@@ -37,13 +37,13 @@ Feel free to check out my projects and reach out if you'd like to collaborate!
 - Automate data collection in Power BI using REST API, Snowflake, and Python, allowing quicker analysis of report refresh failures and more effective data fixes
  
 ### Eide Bailly (Oct 2023 - Dec 2023)   <img src="https://th.bing.com/th/id/OIP.7EbIYdnWeTVqC-xRODEzYwHaHa?rs=1&pid=ImgDetMain" alt="Your Image Description" height = "100" width="100"/>
-**Eide Bailly LLP** - Fargo, ND
+**Outsourced IT intern** - Fargo, ND
 - Increased patch rates to 90%+, resulting in improved security and performance for company devices
 - Contributed to cybersecurity efforts by addressing and rectifying vulnerabilities by administering consistent updates
 
  
 ### John Deere (Dec 2022 - Sept 2023)   <img src="https://brandlogos.net/wp-content/uploads/2021/10/john-deere-logo-symbol-vector.png" alt="Your Image Description" height = "100" width="100"/>
-**John Deere** - Fargo, ND
+**Administrative Assistant** - Fargo, ND
 - Drove business operations by analyzing data, generating reports, and optimizing workflows
 - Employed Power BI, Epicor 10, BI Launch Pad, and MS Excel for data analysis and visualization
 - Generated over $150,000 in part sales revenue
@@ -51,6 +51,9 @@ Feel free to check out my projects and reach out if you'd like to collaborate!
 ## Projects
 
 Here are some of the projects I've been working on:
+
+- **[Store Forecasting Competition - Rohlik](https://github.com/noahny87/Projects-Competition)**  
+For this Kaggle competition, I used a LightGBM model to predict store sales. The model achieved a **4.4% error (MSE: 0.0440)**, placing **37th** on the leaderboard out of hundreds of participants. LightGBM was selected for its efficiency in handling weak correlations within the dataset and for requiring less computational power compared to XGBoost.
 
 - **[Pokemon LLM using RAG](https://github.com/noahny87/Pokemon-Chat-Bot-using-RAG)**  
   As a huge fan of Pokémon and the franchise, I wanted to create my own "Pokédex" similar to what you see in the show. Using a dataset from Kaggle and Meta's Llama family of LLMs, I brought the concept to life. By leveraging Retrieval-Augmented Generation (RAG), this project can retrieve and present information about various Pokémon—just like a real-life Pokédex!
@@ -61,9 +64,5 @@ Here are some of the projects I've been working on:
   One major challenge was the inconsistency in naming conventions (e.g., "Naruto Shippuden" is often just called "Naruto"). To tackle this, I implemented a closest-match search to eliminate errors caused by name discrepancies. In the end, the system worked seamlessly, delivering accurate results—a job well done!
 
   As Spike Spiegel from *Cowboy Bebop* would say, "Whatever happens, happens"—and this project taught me a lot about problem-solving and persistence!
-
-
-- **[Store Forecasting Competition - Rohlik](https://github.com/noahny87/Projects-Competition)**  
-For this Kaggle competition, I used a LightGBM model to predict store sales. The model achieved a **4.4% error (MSE: 0.0440)**, placing **37th** on the leaderboard out of hundreds of participants. LightGBM was selected for its efficiency in handling weak correlations within the dataset and for requiring less computational power compared to XGBoost.
 
 Check out my [GitHub profile](https://github.com/noahny87) for more projects and contributions!
