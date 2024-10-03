@@ -29,20 +29,20 @@ Masters of Science in Data Science
 
 ## Work Experience 
 
-### Bobcat (Jan 2024 - Present)   <img src="https://yt3.ggpht.com/a/AGF-l79kHVPgJKSYCjRa36SSkMDcRsRnP7pwuI5xWQ=s900-c-k-c0xffffffff-no-rj-mo" alt="Your Image Description" width="150"/> 
+### Bobcat (Jan 2024 - Present)   <img src="https://yt3.ggpht.com/a/AGF-l79kHVPgJKSYCjRa36SSkMDcRsRnP7pwuI5xWQ=s900-c-k-c0xffffffff-no-rj-mo" alt="Your Image Description" height = "100" width="100"/> 
 **Business Intelligence Analyst Intern** - West Fargo, ND
 - Utilize R to analyze ACF correlations between price and sales to optimize part sales strategies
 - Develop an R-based method to assess dealer performance for a sales competition, recalibrating rankings weekly and presenting results to drive improvements
 - Build and maintain a Power BI dashboard to track margin slippage in smaller machines, identifying trends and enabling actions to halt margin decline
 - Automate data collection in Power BI using REST API, Snowflake, and Python, allowing quicker analysis of report refresh failures and more effective data fixes
  
-### Eide Bailly (Oct 2023 - Dec 2023)   <img src="https://th.bing.com/th/id/OIP.7EbIYdnWeTVqC-xRODEzYwHaHa?rs=1&pid=ImgDetMain" alt="Your Image Description" width="150"/>
+### Eide Bailly (Oct 2023 - Dec 2023)   <img src="https://th.bing.com/th/id/OIP.7EbIYdnWeTVqC-xRODEzYwHaHa?rs=1&pid=ImgDetMain" alt="Your Image Description" height = "100" width="100"/>
 **Eide Bailly LLP** - Fargo, ND
 - Increased patch rates to 90%+, resulting in improved security and performance for company devices
 - Contributed to cybersecurity efforts by addressing and rectifying vulnerabilities by administering consistent updates
 
  
-### John Deere (Dec 2022 - Sept 2023)   <img src="https://brandlogos.net/wp-content/uploads/2021/10/john-deere-logo-symbol-vector.png" alt="Your Image Description" width="150"/>
+### John Deere (Dec 2022 - Sept 2023)   <img src="https://brandlogos.net/wp-content/uploads/2021/10/john-deere-logo-symbol-vector.png" alt="Your Image Description" height = "100" width="100"/>
 **John Deere** - Fargo, ND
 - Drove business operations by analyzing data, generating reports, and optimizing workflows
 - Employed Power BI, Epicor 10, BI Launch Pad, and MS Excel for data analysis and visualization
